@@ -3,7 +3,7 @@ A method to assign secret santas!
 
 ## Useage 
 ### Commandline: 
-Save your names in a names.txt, each on a separate line. 
+Save your names in `names.txt`, each on a separate line. 
 
 `npm start`
 
