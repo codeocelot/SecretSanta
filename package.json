@@ -1,0 +1,23 @@
+{
+  "name": "secretsanta",
+  "version": "1.0.0",
+  "description": "better than a hat! ",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeocelot/secretsanta.git"
+  },
+  "author": "jrg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeocelot/secretsanta/issues"
+  },
+  "homepage": "https://github.com/codeocelot/secretsanta#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "underscore": "^1.8.3"
+  }
+}
