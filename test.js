@@ -1,5 +1,5 @@
 var assert = require('assert');
-var people = require('./people');
+var people = require('./main');
 var _ = require('underscore');
 
 describe('gift selector',function(){
